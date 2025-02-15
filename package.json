@@ -1,6 +1,6 @@
 {
   "homepage": "https://itsmeishaansharma.github.io/Password-Generator/",
-  "name": "05passwordgenerator",
+  "name": "passwordgenerator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
